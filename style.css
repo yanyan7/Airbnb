@@ -792,8 +792,10 @@ nav button {
   #info h1 {
     top: 142px;
     left: 3%;
-    width: 95%;
-    font-size: 34px;
+    /* width: 95%; */
+    width: 78%;
+    /* font-size: 34px; */
+    font-size: 28px;
   }
   #info input[type='text']{
     padding: .3em 0;
@@ -930,6 +932,7 @@ nav button {
   .start2 h1 {
     top: 65px;
     left: 30px;
+    width: 53%;
   }
   .start2 button {
     top: 180px;
